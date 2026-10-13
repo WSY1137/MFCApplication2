@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+x64/
+Debug/
+Release/
+*.obj
+*.pch
+*.ilk
+*.idb
+*.pdb
+*.tlog
+*.log
+*.res
+*.ipch
+*.exe
+*.recipe
+*.lastbuildstate
+*.FileListAbsolute.txt
